@@ -1,0 +1,7 @@
+debug = info
+foreground=yes
+
+[http_proxy]
+client=yes
+accept = 0.0.0.0:80
+connect = example.com:443
